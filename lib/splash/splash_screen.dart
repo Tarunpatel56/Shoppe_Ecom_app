@@ -49,7 +49,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
           Column(
             children: [
-              SizedBox(height: Get.height * 0.2),
+        SizedBox(height: Get.height *0.2,),
               SizedBox(
                 width: Get.width * 0.9,
                 height: Get.height * 0.07,
